@@ -1,0 +1,14 @@
+# a50dd-user 11 RP1A.200720.012 A505FDDS9CWA2 release-keys
+- manufacturer: samsung
+- platform: universal9610
+- codename: a50
+- flavor: a50dd-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A505FDDS9CWA2
+- tags: release-keys
+- fingerprint: samsung/a50dd/a50:11/RP1A.200720.012/A505FDDS9CWA2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a50dd-user-11-RP1A.200720.012-A505FDDS9CWA2-release-keys
+- repo: samsung_a50_dump
